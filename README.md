@@ -1,2 +1,2 @@
-# Farsi to Tajiki
-An attempt to make a transliterator of Farsi web page to Tajiki with a bookmarklet.
+# Farsi (Persian) to Tajiki (Cyrillic)
+An attempt to make a transliterator of Farsi (Persian) web page to Tajiki (Cyrillic) with a bookmarklet.
